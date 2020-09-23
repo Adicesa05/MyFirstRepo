@@ -5,4 +5,4 @@
 
 
 
-<img src="https://i.kym-cdn.com/entries/icons/original/000/022/713/MonkaSSS.jpg" alt="alt text" width="200" height="200">
+<img src="https://i.kym-cdn.com/entries/icons/original/000/022/713/MonkaSSS.jpg" alt="alt text" width="500" height="500">
